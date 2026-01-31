@@ -17,7 +17,7 @@
 
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:003C8F,100:1E90FF&height=220&section=header&text=Dhon%20Dan%20%7C%20Developer&fontSize=36&fontColor=ffffff&animation=waving" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:003C8F,100:1E90FF&height=220&section=header&text=Bem-vindo%20ao%20meu%20Git%20Hub&fontSize=36&fontColor=ffffff&animation=waving" />
 </p>
 
 ---
