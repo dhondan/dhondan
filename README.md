@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=600&color=1E90FF&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+GitHub;%F0%9F%A7%A0+Onde+ideias+viram+c%C3%B3digo;%E2%9A%A1+Consist%C3%AAncia+%3E+Talento;%F0%9F%9A%80+Construindo+o+futuro+linha+por+linha" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=600&color=1E90FF&center=true&vCenter=true&width=800&lines=%F0%9F%A7%A0+Onde+ideias+viram+c%C3%B3digo;%E2%9A%A1+Consist%C3%AAncia+%3E+Talento;%F0%9F%9A%80+Construindo+o+futuro+linha+por+linha" />
 </p>
 
 <p align="center">
